@@ -1,0 +1,21 @@
+{
+  "name": "simple-inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.2.6"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.0.34",
+    "ganache-cli": "^6.9.1",
+    "mocha": "^7.1.1",
+    "solc": "^0.6.6"
+  }
+}
